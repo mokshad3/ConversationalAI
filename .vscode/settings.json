@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/7f147e07-7483-4495-80c5-923ea25a5852/resourceGroups/MocRG/providers/Microsoft.Web/sites/con-moc-api-dev",
+    "appService.deploySubpath": "."
+}
